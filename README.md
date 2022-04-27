@@ -1,8 +1,6 @@
 ### Here is what I'm working On! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React and Django
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on opensource projects
